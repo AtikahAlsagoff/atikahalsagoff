@@ -1,4 +1,4 @@
-### 👋 Hi there, I'm Atikah!
+### 👋 Hi there, I'm <a href="https://atikahalsagoff.github.io/" target="_blank">Atikah Alsagoff</a>
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/3PRgRMD1hp61wR32iG/giphy.gif"
@@ -9,7 +9,10 @@
 
 I'm an EEE graduate enthusiastic about creating impactful projects. My journey has equipped me with a deep understanding of both hardware and software, allowing me to craft a versatile portfolio that demonstrates my ability to innovate and solve real-world challenges. From software-focused endeavours to projects seamlessly integrating hardware and software, I'm committed to continuous learning and using my skills to contribute meaningfully to the field of technology.
 
+- 👨🏻‍💻 I’m currently working on some cool projects;
+- 💬 Feel free to contact me; I'm always eager to learn from others and explore new opportunities together.
 
+  
 ### 🛠 &nbsp;Languages and Tools :
 <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
@@ -21,9 +24,12 @@ I'm an EEE graduate enthusiastic about creating impactful projects. My journey h
 
 
 ### 📫 &nbsp;How to reach me: 
-- [![Email Badge](https://img.shields.io/badge/-atikahalsagoff-darkgreen?style=flat&logo=Microsoft-Outlook&logoColor=white)](mailto:atikah004@e.ntu.edu.sg)
-- [![Linkedin Badge](https://img.shields.io/badge/-atikahalsagoff-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/atikahalsagoff/)
+- [![Email Badge](https://img.shields.io/badge/-atikah004@e.ntu.edu.sg-darkgreen?style=flat&logo=Microsoft-Outlook&logoColor=white)](mailto:atikah004@e.ntu.edu.sg)
+- [![Linkedin Badge](https://img.shields.io/badge/-AtikahAlsagoff-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/atikahalsagoff/)
 
+##
+<p>  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gapur&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
+</p>
 <!--
 **AtikahAlsagoff/atikahalsagoff** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
