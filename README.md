@@ -1,4 +1,4 @@
-### 👋 Hi there, I'm <a href="https://atikahalsagoff.github.io/" target="_blank">Atikah Alsagoff</a>
+### Hi there, I'm <a href="https://atikahalsagoff.github.io/" target="_blank">Atikah Alsagoff</a> 👋
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/3PRgRMD1hp61wR32iG/giphy.gif"
@@ -27,9 +27,6 @@ I'm an EEE graduate enthusiastic about creating impactful projects. My journey h
 - [![Email Badge](https://img.shields.io/badge/-atikah004@e.ntu.edu.sg-darkgreen?style=flat&logo=Microsoft-Outlook&logoColor=white)](mailto:atikah004@e.ntu.edu.sg)
 - [![Linkedin Badge](https://img.shields.io/badge/-AtikahAlsagoff-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/atikahalsagoff/)
 
-##
-<p>  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gapur&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
-</p>
 <!--
 **AtikahAlsagoff/atikahalsagoff** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
