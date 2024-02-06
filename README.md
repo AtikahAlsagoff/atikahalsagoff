@@ -14,7 +14,7 @@ I'm an EEE graduate enthusiastic about creating impactful projects. My journey h
 
 ### 🤸‍♀️ &nbsp;My Hobbies :
 - I enjoy reading books 📚
-- I love cycling 🚴 & taking long walks in parks🚶‍♀️
+- I love cycling 🚴 and taking long walks in parks🚶‍♀️
 
 ### 🛠 &nbsp;Languages and Tools :
 <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="40" height="40"/>&nbsp;
