@@ -12,7 +12,10 @@ I'm an EEE graduate enthusiastic about creating impactful projects. My journey h
 - 👨🏻‍💻 I’m currently working on some cool projects;
 - 💬 Feel free to contact me; I'm always eager to learn from others and explore new opportunities together.
 
-  
+### 🤸‍♀️ &nbsp;My Hobbies :
+- I enjoy reading books 📚
+- I love cycling 🚴 & take long walks in the park🚶‍♀️
+
 ### 🛠 &nbsp;Languages and Tools :
 <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
