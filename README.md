@@ -7,7 +7,7 @@
 
 ### 👩‍💻 &nbsp;About Me :
 
-I'm an EEE graduate enthusiastic about creating impactful projects. My journey has equipped me with a deep understanding of both hardware and software, allowing me to craft a versatile portfolio that demonstrates my ability to innovate and solve real-world challenges. From software-focused endeavours to projects seamlessly integrating hardware and software, I'm committed to continuous learning and using my skills to contribute meaningfully to the field of technology.
+I'm an Electrical and Electronic Engineering (EEE) graduate enthusiastic about creating impactful projects. My journey has equipped me with a deep understanding of both hardware and software, allowing me to craft a versatile portfolio that demonstrates my ability to innovate and solve real-world challenges. From software-focused endeavours to projects seamlessly integrating hardware and software, I'm committed to continuous learning and using my skills to contribute meaningfully to the field of technology.
 
 - 👨🏻‍💻 I’m currently working on some cool projects;
 - 💬 Feel free to contact me; I'm always eager to learn from others and explore new opportunities together.
