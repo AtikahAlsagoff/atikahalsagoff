@@ -27,7 +27,7 @@ I'm an Electrical and Electronic Engineering (EEE) graduate enthusiastic about c
 
 
 ### 📫 &nbsp;How to reach me: 
-- [![Email Badge](https://img.shields.io/badge/-atikah004@e.ntu.edu.sg-darkgreen?style=flat&logo=Microsoft-Outlook&logoColor=white)](mailto:atikah004@e.ntu.edu.sg)
+- [![Email Badge](https://img.shields.io/badge/-atikah004@e.ntu.edu.sg-darkgreen?style=flat&logo=Microsoft-Outlook&logoColor=white)](mailto:atikah.alsagoff@gmail.com)
 - [![Linkedin Badge](https://img.shields.io/badge/-AtikahAlsagoff-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/atikahalsagoff/)
 
 <!--
